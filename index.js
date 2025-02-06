@@ -1,5 +1,5 @@
 // index.js
-import express from "";
+import express from "express";
 const app = express();
 
 // Route to handle root request
